@@ -1,4 +1,4 @@
-##Tell us about your system and the issue with IRIS
+## Tell us about your system and the issue with IRIS
 
 For [option1/option2/option3...] delete as appropriate.
 
@@ -8,14 +8,19 @@ For [option1/option2/option3...] delete as appropriate.
 4. The web browser I'm using is: 
 5. I'd like to report or request a: [bug with existing feature/new feature/both]
 6. I found the following bugs:
- * missing or incorrectly working feature 1,
- * missing or incorrectly working feature 2,
+ - [ ] missing or incorrectly working feature 1,
+ - [ ] missing or incorrectly working feature 2,
  7. I'd like to request the following IRIS superpower(s), change(s):
- * feature description 1,
- * feature description 2,
+ - [ ] feature description 1,
+ - [ ] feature description 2,
 
-**My further comments:**
+## My further comments:
 
+Add or remove as appropriate.
+
+I have the following comments:
+- [ ] Comment 1,
+- [ ] COmment 2.
 [type here any other comment you have on how to make IRIS better]
 
  
