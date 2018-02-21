@@ -2,7 +2,7 @@
 
 ## What's IRIS? What is a beta? How to provide feedback?
 
-Summer of 2017 Grapheel launched the first beta of [IRIS](www.grapheel.com/home/iris/), our web app designed to help expert volunteers describe STEM images for blind and visually impaired students. We are excited to ask you to test a new version of IRIS, redesigned from the ground up to be a better user experience.
+Summer of 2017 Grapheel launched the first beta of [IRIS](https://www.grapheel.com/home/iris/), our web app designed to help expert volunteers describe STEM images for blind and visually impaired students. We are excited to ask you to test a new version of IRIS, redesigned from the ground up to be a better user experience.
 
 ### Beta version
 
@@ -15,12 +15,12 @@ We are using a service called GitHub as our interactive, accessible ticketing sy
 How does the workflow look like?:
 
 1. You need a GitHub account. If you have one, log in, if you don't, [create an account](https://github.com/login). It's free, and all you need is an e-mail address.
-2. Once logged in, make sure you are on: https://github.com/Grapheel/IRIS-issues
-3. click 'issues'.
-4. click 'new issue' or 'create an issue'.
+2. Once logged in, make sure you are on: https://github.com/Grapheel/IRIS/issues
+3. Check to see if your issue has already been reported. If it has add a comment to say you're also experiencing this problem
+4. Otherwise click 'new issue' or 'create an issue'.
 5. Enter a title for your bug report or feature request.
 6. Fill out the template we provided, by answering as many questions as you can.
-7. click 'submit new issue'.
+7. Click 'submit new issue'.
 
 ## What happens after I submit a new issue?
 
