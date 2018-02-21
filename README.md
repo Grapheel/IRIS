@@ -22,7 +22,7 @@ How does the workflow look like?:
 6. Fill out the template we provided, by answering as many questions as you can.
 7. click 'submit new issue'.
 
-## What happens after I submitted a new issue?
+## What happens after I submit a new issue?
 
 Our developer team will investigate the issue, and if necessary open up a discussion to learn more about the bug, feature request, or just to say it's fixed.
 
@@ -34,7 +34,7 @@ Go through the following checklist before submitting an issue:
 
 - Have you told us whether you are a sighted volunteer or visually impaired user?
 - Have you told us the type of device you are using? Let's say iPhone 6 or Windows PC.
-- Have you told us your operating system? FOr instance are you using Windows 10 64bit, or an Android OS?
+- Have you told us your operating system? For instance are you using Windows 10 64bit, or an Android OS?
 - Have you told us what web browser are you using? For example Chrome or Safari?
 - Have you told us the nature of the issue e.g. bug or new feature request?
 - Have you described the matter of the issue?
